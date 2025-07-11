@@ -1,0 +1,5 @@
+/home/vi/web3/Q3_25_Builder_vikeyone0/cpi-in-solana/target/debug/deps/libzeroize_derive-b69fd8c760e47699.so: /home/vi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize_derive-1.4.2/src/lib.rs
+
+/home/vi/web3/Q3_25_Builder_vikeyone0/cpi-in-solana/target/debug/deps/zeroize_derive-b69fd8c760e47699.d: /home/vi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize_derive-1.4.2/src/lib.rs
+
+/home/vi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zeroize_derive-1.4.2/src/lib.rs:
